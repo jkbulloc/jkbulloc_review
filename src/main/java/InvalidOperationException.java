@@ -1,7 +1,12 @@
 package main.java;
 
-/**
- * class for matrix positions
+/*
+ * File: InvalidoperationException.java
+ * Author: amehlhas, adalvi1
+ * Date: 2/18/19
+ * 
+ * Description: This class is used to throw a user-created exception while running
+ * the main program
  */
 import java.lang.*;  // for class Exception
 
